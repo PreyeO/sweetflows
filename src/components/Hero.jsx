@@ -6,6 +6,7 @@ import TradingIcon from "../assets/exchange.png";
 import ImportIcon from "../assets/importicon.png";
 import Marquee from "react-fast-marquee";
 import Button from "./Button";
+import { Link } from "react-scroll";
 
 const Hero = () => {
   return (
@@ -18,12 +19,17 @@ const Hero = () => {
           From import/export to property development and contracting, we deliver
           solutions that move businesses forward.
         </p>
-        <div className=" mt-2">
+        <Link
+          to="contact"
+          smooth={true}
+          duration={500}
+          className="cursor-pointer mt-2"
+        >
           <Button
             label="Work With Us"
-            className="bg-[#004d40] w-[250px] h-[60px]  "
+            className="bg-[#004d40] w-[250px] h-[60px]   "
           />
-        </div>
+        </Link>
       </div>
 
       <Marquee
