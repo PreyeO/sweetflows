@@ -2,9 +2,15 @@ const Cards = () => {
   return (
     <div className=" lg:px-[40px] px-4 py-[40px]  md:text-lg gap-4  text-[#333333] lg:w-[600px]  w-full  bg-[#faf9f6]  rounded-2xl flex flex-col ">
       <p className=" lg:text-base lg:leading-8 leading-7 text-sm">
-        At sweetFlow, we value seamless communication. Whether you have
-        enquiries about our services, need expert advice, or want to explore
-        business opportunities with us, we are ready to assis.
+        {" "}
+        At
+        <span className="font-bold text-[#004d40] ">
+          {" "}
+          Sweet<span className="text-[#D4AF37]">Flow</span>
+        </span>
+        , we value seamless communication. Whether you have enquiries about our
+        services, need expert advice, or want to explore business opportunities
+        with us, we are ready to assis.
       </p>
       <div className="flex flex-col gap-1">
         <h4 className="font-bold md:text-2xl text-lg">Head Office:</h4>
