@@ -71,7 +71,7 @@ const Hero = () => {
         pauseOnHover
         loop={0}
         speed={50}
-        className=" w-full mt-10 lg:mt-[100px] xl:mt-0"
+        className=" w-full mt-10 "
         autoFill
       >
         <div className="mt-2 flex w-full gap-10 items-center relative">
