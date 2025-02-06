@@ -11,7 +11,7 @@ import TelecomIcon from "../assets/telecomicon.png";
 import TradingIcon from "../assets/exchange.png";
 import ImportIcon from "../assets/importicon.png";
 import Marquee from "react-fast-marquee";
-import Button from "./button";
+import Button from "./Button";
 
 const Hero = () => {
   return (
