@@ -30,7 +30,7 @@ const Hero = () => {
           </div>
         </div>
 
-        <div className="bg-[#004d40] md:flex flex-wrap hidden lg:w-[45%] w-[50%]  gap-5 rounded-br-full p-4 lg:p-6 xl:p-4 xl:mt-[-110px]">
+        <div className="bg-[#004d40] md:flex flex-wrap hidden lg:w-[45%] w-[50%]  gap-5 rounded-br-full p-4 lg:p-6 xl:p-4 lg:mt-[-110px]">
           <img
             src={RealEstate}
             alt="construction"
