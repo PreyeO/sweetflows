@@ -1,5 +1,5 @@
-import Cards from "./components/Cards";
-import CustomerService from "./assets/Customerservice.jpg";
+import CustomerService from "../assets/Customerservice.jpg";
+import Cards from "./Cards";
 
 const Contact = () => {
   return (
