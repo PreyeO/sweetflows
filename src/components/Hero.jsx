@@ -61,7 +61,7 @@ const Hero = () => {
           <img
             src={Telecommunications}
             alt="construction"
-            className="xl:w-[180px] xl:h-[180px] lg:h-[150px] lg:w-[150px]  rounded-full"
+            className="xl:w-[180px] xl:h-[180px] lg:h-[150px] lg:w-[150px]  w-[100px] h-[100px]   rounded-full"
           />
         </div>
       </div>
@@ -71,7 +71,7 @@ const Hero = () => {
         pauseOnHover
         loop={0}
         speed={50}
-        className=" w-full mt-10 "
+        className=" w-full  "
         autoFill
       >
         <div className="mt-2 flex w-full gap-10 items-center relative">
