@@ -3,7 +3,7 @@ import Cards from "./Cards";
 
 const Contact = () => {
   return (
-    <section className=" lg:my-[130px] my-[50px]">
+    <section id="contact" className=" lg:my-[130px] my-[50px]">
       <h1 className="lg:text-3xl text-lg  font-bold text-[#004d40] text-center">
         Get in Touch - Your Next Business Move Starts Here!
       </h1>
