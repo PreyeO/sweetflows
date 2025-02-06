@@ -15,7 +15,7 @@ import Button from "./Button";
 
 const Hero = () => {
   return (
-    <section className="flex flex-col items-center justify-center pt-[50px] lg:pt-[100px] xl:pt-[50px] ">
+    <section className="flex flex-col items-center justify-center pt-[50px]  ">
       <div className="flex md:justify-between w-full flex-wrap md:flex-nowrap justify-center items-center ">
         <div className="flex flex-col gap-4 text-lg md:w-[45%] w-full text-center md:text-left">
           <h1 className="font-bold xl:text-[55px] 2xl:text-[65px] lg:text-[40px] text-3xl text-[#004d40] leading-[40px] lg:leading-[60px]">
@@ -25,7 +25,7 @@ const Hero = () => {
             From import/export to property development and contracting, we
             deliver solutions that move businesses forward.
           </p>
-          <div className="hidden xl:flex mt-2">
+          <div className="hidden lg:flex mt-2">
             <Button />
           </div>
         </div>
