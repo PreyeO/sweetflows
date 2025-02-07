@@ -50,4 +50,7 @@ h6 {
   .hero {
     margin-top: 50px;
   }
+  .nav-btn {
+    display: none;
+  }
 }
