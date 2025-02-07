@@ -14,7 +14,7 @@ const ServiceContainer = ({
       <img
         src={src}
         alt={alts}
-        className="w-full max-w-[350px] h-[300px] rounded-xl object-cover  "
+        className="w-full max-w-[350px] h-[300px] rounded-xl object-cover bg-[#333333]"
       />
       <div
         className={` ${className} translate-y-[-70px] w-[300px] h-[200px] bg-[#f5f1e3] rounded-xl shadow-2xl px-4 flex flex-col gap-3 `}
