@@ -4,7 +4,7 @@ const Footer = () => {
       <div className="lg:w-[60%] w-full">
         <h2 className="md:text-5xl  text-3xl font-bold lg:leading-[80px] md:leading-[60px] leading-[40px]">
           Move Your Business <span className="text-[#D4AF37]  ">Forward</span>{" "}
-          with SweetFlows Global Service Limited.
+          with SweetFlows Global Services Limited.
         </h2>
         <p className="md:text-lg text-sm mt-2 opacity-80">
           Driven by innovation, committed to your success
@@ -12,7 +12,7 @@ const Footer = () => {
       </div>
       <div className="border border-[#f5f1e3] opacity-20 w-full my-4"></div>
       <h6 className="flex opacity-60 justify-center items-center mt-10 text-[12px] md:text-sm 2xl:text-xl">
-        copyright &copy; 2025 SWEETFLOWS GLOBAL SERVICE LIMITED. All Rights
+        copyright &copy; 2025 SWEETFLOWS GLOBAL SERVICES LIMITED. All Rights
         Reserved.
       </h6>
     </footer>

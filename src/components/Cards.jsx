@@ -6,7 +6,7 @@ const Cards = () => {
         At
         <span className="font-bold text-[#004d40] ">
           {" "}
-          Sweet<span className="text-[#D4AF37]">Flow</span>
+          Sweet<span className="text-[#D4AF37]">Flows Global</span>
         </span>
         , we value seamless communication. Whether you have enquiries about our
         services, need expert advice, or want to explore business opportunities
@@ -22,7 +22,7 @@ const Cards = () => {
       <div className="flex flex-col gap-1">
         <h4 className="font-bold md:text-2xl text-lg">Phone Numbers:</h4>
         <p className="text-sm leading-7">
-          TEL: +234-(01)-7615965, +234-(0)8077719777
+          TEL: +234-(01)-7615965, +234-(0)8033554727
         </p>
         <p className="text-sm leading-7">FAX: +234-(01)-4623712</p>
       </div>
